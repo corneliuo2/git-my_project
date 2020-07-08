@@ -26,7 +26,7 @@ class Human #The first letter of the class is Uppercase
   end
 
 end #end of class
-@human = Human.new("Louis", 1981)
+@human = Human.new("Cornel", 1980)
 car = @human.get_age
 puts @human.name
 
